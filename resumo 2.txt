@@ -1,0 +1,3 @@
+Com essa estrutura
+ O with faz com que a varialvel arquivo 2
+ não precise ser fechada com o .close
