@@ -4,8 +4,7 @@ Bem-vindo ao repositório DataCare! Este projeto oferece soluções práticas pa
 ## Pré-requisitos
 Para instalar as dependências necessárias, basta rodar o seguinte comando no terminal:
 
-`bash
-$pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ## Funcionalidades
 Este repositório foi desenvolvido para ajudar você a:
